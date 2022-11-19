@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Rrens/Rrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rens</h1>
-<h3 align="center">i am a software engginer based in surabaya, Indonesia. With a passion on web technologies like Laravel and ReactJS</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrens&label=Profile%20views&color=0e75b6&style=flat" alt="rrens" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrens" alt="rrens" /></a> </p>
+<h3 align="center">i am a software engineer based in surabaya, Indonesia. With a passion on web technologies like Laravel and ReactJS</h3>
 
 - 🌱 I’m currently learning **learning about Web Development**
 
