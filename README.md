@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rens</h1>
+<h1 align="center">Hi 👋, I'm Rrens</h1>
 <h3 align="center">i am a software engineer based in surabaya, Indonesia. With a passion on web technologies like Laravel and ReactJS</h3>
 
 - 🌱 I’m currently learning **learning about Web Development**
