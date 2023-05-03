@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rrens</h1>
 <h3 align="center">i am a software engineer based in surabaya, Indonesia. With a passion on web technologies like Laravel and ReactJS</h3>
 
-- 🌱 I’m currently learning **learning about Web Development**
+- 🌱 I’m currently **learning about Web Development**
 
 - 💬 Ask me about **React, Laravel**
 
