@@ -84,28 +84,11 @@
 <a href="https://instagram.com/rendiyusuf_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrens&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-<br/>  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 ## Holopin
 [![@rrens's Holopin board](https://holopin.me/rrens)](https://holopin.io/@rrens)
